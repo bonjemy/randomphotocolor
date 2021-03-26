@@ -8,3 +8,7 @@ body {
     margin-right: auto;
    
   } 
+  #instructions {
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+  }
